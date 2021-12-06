@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to right, bisque, blanchedalmond, burlywood);
+}
+.container{
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    height: auto;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    margin: 30px;
+    font-family: cursive;
+    font-size: 4rem;
+    color: burlywood;
+}
+p{
+    color: burlywood;
+    font-size: 35px;
+    font-style: italic;
+}
+footer{
+    text-align: center;
+    font-family: cursive;
+    color: brown;
+    
+}
